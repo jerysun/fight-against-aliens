@@ -1,4 +1,4 @@
-# Batteships fight against aliens
+# Battleships fight against aliens
 
 A small game developed using Python, have fun for you to manipulate battleships to defeat the aliens fleets!
 
